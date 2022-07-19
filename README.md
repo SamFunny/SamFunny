@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, PHP, CSS, JS**
 
-- 📄 Know about my experiences [I'm Beginner haven't a experiences](I'm Beginner haven't a experiences)
+- 📄 Know about my experiences [I'm Beginner haven't a experiences]
 
 - ⚡ Fun fact **I think I am Funny**
 
